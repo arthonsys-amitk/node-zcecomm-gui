@@ -1,0 +1,4 @@
+[
+    { "title": "User", "field": "email" , "sortable": true, "thComp": "filter-th" },
+    { "title": "Active", "field": "activeYN", "thComp": "filter-th", "sortable": true}
+]

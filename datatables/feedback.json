@@ -1,0 +1,4 @@
+[
+    { "title": "Type", "field": "feedbackType", "thComp": "filter-th" },
+    { "title": "Feedback", "field": "feedback", "tdClass" : "bigtext"}
+]

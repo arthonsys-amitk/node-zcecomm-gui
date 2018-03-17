@@ -1,0 +1,20 @@
+[
+       {
+          "key": "email",
+          "type": "input",
+          "required" : true,
+          "templateOptions" : {
+            "inputType" : "email",
+            "label" : "Email"
+          }
+       },
+       {
+          "key": "password",
+          "type": "input",
+          "required" : true,
+          "templateOptions" : {
+            "inputType" : "password",
+            "label" : "Password"
+          }
+       }
+]

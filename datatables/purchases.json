@@ -1,0 +1,5 @@
+[
+    { "title": "Name", "field": "firstName","sortable": true, "thComp": "filter-th","class":"col-sm-3"},
+    { "title": "Email", "field": "email","sortable": true, "thComp": "filter-th","class":"col-sm-3"},
+    { "title": "Date Of Purchase", "field": "dateOfPurchase","sortable": true, "thComp": "filter-th","class":"col-sm-3"}
+]

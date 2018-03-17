@@ -1,0 +1,35 @@
+[
+  {
+      "key": "email",
+      "type": "input",
+      "required" : true,
+      "templateOptions" : {
+        "inputType" : "email",
+        "label" : "Email"
+      }
+  },
+  {
+      "key": "activeYN",
+      "type": "list",
+      "options" : [""],
+      "templateOptions" : {
+        "label" : "Active?"
+      }
+  },
+  {
+    "key": "passwordnew",
+    "type": "input",
+    "templateOptions" : {
+      "inputType" : "password",
+      "label" : "Password"
+    }
+  },
+  {
+    "key": "passwordCn",
+    "type": "input",
+    "templateOptions" : {
+      "inputType" : "password",
+      "label" : "Confirm Password"
+    }
+  }
+]

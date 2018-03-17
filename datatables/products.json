@@ -1,0 +1,4 @@
+[
+    { "title": "Product", "field": "name","sortable": true, "thComp": "filter-th"},
+    { "title": "Version", "field": "version","sortable": true, "thComp": "filter-th"}
+]

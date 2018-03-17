@@ -1,0 +1,21 @@
+{
+  "name": "zencolor-admin-ui",
+  "version": "0.0.1",
+  "description": "The zenColor Administration UI",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "keywords": [
+    "zenColor"
+  ],
+  "author": "Simon Horwith <sh@zencolor.com>",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  },
+  "dependencies": {
+    "express": "^4.15.3",
+    "lodash": "^4.17.4"
+  }
+}

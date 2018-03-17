@@ -1,0 +1,18 @@
+[
+  {
+    "key": "feedbackType",
+    "type": "select",
+    "options" : [{"value" : "error", "label" : "Error"}, {"value" : "enhancement", "label" : "Enhancement"}, {"value": "general", "label" : "General"}],
+    "templateOptions" : {
+      "label" : "Feedback Type"
+    }
+  },
+  {
+      "key": "feedback",
+      "type": "textarea",
+      "required" : true,
+      "templateOptions" : {
+        "label" : "Feedback"
+      }
+  }
+]

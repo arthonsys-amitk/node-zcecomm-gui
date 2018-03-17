@@ -1,0 +1,110 @@
+[
+  {
+      "key": "name",
+      "type": "input",
+      "required" : true,
+      "templateOptions" : {
+        "label" : "Product Name"
+      }
+  },
+  {
+      "key": "description",
+      "type": "input",
+      "templateOptions" : {
+        "label" : "Product Description"
+      }
+  },
+  {
+    "key": "version",
+    "type": "input",
+    "templateOptions" : {
+      "label" : "Product Version"
+    }
+  },
+  {
+    "key": "downloadable",
+    "type": "list",
+    "options":[""],
+    "templateOptions" : {
+      "label" : "Downloadable?"
+    }
+  },
+  {
+    "key": "url",
+    "type": "input",
+    "templateOptions" : {
+      "label" : "Product Url"
+    }
+  },
+  {
+    "key": "price",
+    "type": "input",
+    "templateOptions" : {
+      "label" : "Product Price"
+    }
+  },
+  {
+    "key": "image",
+    "type": "input",
+    "templateOptions" : {
+      "label" : "Product Image"
+    }
+  },
+  {
+    "key": "licenseDays",
+    "type": "input",
+    "templateOptions" : {
+      "label" : "License Days"
+    }
+  },
+  {
+    "key": "licenseWeeks",
+    "type": "input",
+    "templateOptions" : {
+      "label" : "License Weeks"
+    }
+  },
+  {
+    "key": "licenseMonths",
+    "type": "input",
+    "templateOptions" : {
+      "label" : "License Months"
+    }
+  },
+  {
+    "key": "licenseYears",
+    "type": "input",
+    "templateOptions" : {
+      "label" : "License Years"
+    }
+  },
+  {
+    "key": "frequency",
+    "type": "input",
+    "templateOptions" : {
+      "label" : "Frequency of Billing in Months"
+    }
+  },
+  {
+    "key": "notificationEmail",
+    "type": "input",
+    "templateOptions" : {
+      "label" : "Email for Purchase Notifications"
+    }
+  },
+  {
+    "key": "lostLicenseHelp",
+    "type": "textarea",
+    "templateOptions" : {
+      "label" : "Lost License Help"
+    }
+  },
+  {
+    "key": "installationText",
+    "type": "textarea",
+    "templateOptions" : {
+      "label" : "Installation Text"
+    }
+  }
+  
+]
